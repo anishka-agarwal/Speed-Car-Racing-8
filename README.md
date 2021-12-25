@@ -1,1 +1,2 @@
-# Speed-Car-Racing-8
+# C40RV_SpeedRacer_StudentActivity
+Student Activity
